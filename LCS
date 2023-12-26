@@ -1,5 +1,5 @@
 //Dynamic Programming...
-//Longest Common Subsequences... (LCS)
+//Longest Common Subsequences.
 
 class Solution {
 public:
